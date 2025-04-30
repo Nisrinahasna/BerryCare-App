@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#FDF1E6"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Logo di tengah -->
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/splash_strawberry" />
+
+    <!-- Tulisan BerryCare di bawah logo -->
+    <ImageView
+        android:id="@+id/berrycare"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/BerryCare" />
+
+    <!-- Tombol Get Started di bawah tengah layar -->
+    <ImageButton
+        android:id="@+id/btnGetStarted"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="48dp"
+        android:background="@drawable/splash_rectangle"
+        android:backgroundTint="@null"
+        android:src="@drawable/Get_Started"
+        android:scaleType="centerInside"
+        android:contentDescription="Get Started" />
+
+</RelativeLayout>

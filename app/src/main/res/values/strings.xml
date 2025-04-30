@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BerryCare</string>
+    <string name="do_you_know">Do you know?</string>
+    <string name="random_fact_1">The red color of the strawberry is due to the anthocyanins found in its plant cells.</string>
+    <string name="random_fact_2">Strawberries are the only fruit with seeds on the outside.</string>
+    <string name="random_fact_3">One strawberry has more vitamin C than an orange of the same size.</string>
+    <string name="show_fact_button">More Facts</string>
+    <string name="tips">Tips</string>
+    <string name="camera_tips">Use camera to scan.</string>
+    <string name="upload_tips">Upload image from your gallery.</string>
+    <string name="about_us">About Us</string>
+    <string name="about_us_text">
+    BerryCare is dedicated to providing the best plant disease detection using deep learning.\n\n
+    BerryCare was created as part of the final project, which was developed by:\n
+    - Raden Roro Nisrina Hasna Firdaus Irawati\n
+    - Sazqia Aulia Palad\n
+    - Haikal Febriano\n
+    - Raissa Arsya Elwahsyifa Nouri\n\n
+    We aim to help farmers and enthusiasts maintain healthier plants with accurate, reliable disease detection! </string>
+
+</resources>
